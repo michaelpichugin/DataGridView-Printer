@@ -1,0 +1,10 @@
+D:\Документы\Code\PrintData\PrintData\bin\Debug\PrintData.exe.config
+D:\Документы\Code\PrintData\PrintData\bin\Debug\PrintData.exe
+D:\Документы\Code\PrintData\PrintData\bin\Debug\PrintData.pdb
+D:\Документы\Code\PrintData\PrintData\obj\Debug\PrintData.csprojResolveAssemblyReference.cache
+D:\Документы\Code\PrintData\PrintData\obj\Debug\PrintData.Form1.resources
+D:\Документы\Code\PrintData\PrintData\obj\Debug\PrintData.Properties.Resources.resources
+D:\Документы\Code\PrintData\PrintData\obj\Debug\PrintData.csproj.GenerateResource.Cache
+D:\Документы\Code\PrintData\PrintData\obj\Debug\PrintData.csproj.CoreCompileInputs.cache
+D:\Документы\Code\PrintData\PrintData\obj\Debug\PrintData.exe
+D:\Документы\Code\PrintData\PrintData\obj\Debug\PrintData.pdb
